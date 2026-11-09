@@ -1,0 +1,5 @@
+train: /Users/robinldunne/Desktop/PetProtector/images/training
+val: /Users/robinldunne/Desktop/PetProtector/images/validate
+
+nc: 3
+names: ['My Cat', 'Cat', 'Animal']
