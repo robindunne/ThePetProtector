@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.cache
+
+# YOLO training outputs
+YOLOv8/runs/
+
+# Virtual environments
+venv/
+.venv/
+
+# Model weights (upload separately if needed)
+*.pt
